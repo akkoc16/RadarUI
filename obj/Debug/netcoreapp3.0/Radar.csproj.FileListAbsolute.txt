@@ -1,0 +1,11 @@
+C:\Users\x\source\repos\Radar\Radar\obj\Debug\netcoreapp3.0\Radar.csprojAssemblyReference.cache
+C:\Users\x\source\repos\Radar\Radar\obj\Debug\netcoreapp3.0\Radar.AssemblyInfoInputs.cache
+C:\Users\x\source\repos\Radar\Radar\obj\Debug\netcoreapp3.0\Radar.AssemblyInfo.cs
+C:\Users\x\source\repos\Radar\Radar\bin\Debug\netcoreapp3.0\Radar.exe
+C:\Users\x\source\repos\Radar\Radar\bin\Debug\netcoreapp3.0\Radar.deps.json
+C:\Users\x\source\repos\Radar\Radar\bin\Debug\netcoreapp3.0\Radar.runtimeconfig.json
+C:\Users\x\source\repos\Radar\Radar\bin\Debug\netcoreapp3.0\Radar.runtimeconfig.dev.json
+C:\Users\x\source\repos\Radar\Radar\bin\Debug\netcoreapp3.0\Radar.dll
+C:\Users\x\source\repos\Radar\Radar\bin\Debug\netcoreapp3.0\Radar.pdb
+C:\Users\x\source\repos\Radar\Radar\obj\Debug\netcoreapp3.0\Radar.dll
+C:\Users\x\source\repos\Radar\Radar\obj\Debug\netcoreapp3.0\Radar.pdb
